@@ -102,3 +102,13 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+input/sample_submission.csv
+input/previous_application.csv
+input/POS_CASH_balance.csv
+input/installments_payments.csv
+input/HomeCredit_columns_description.csv
+input/credit_card_balance.csv
+input/bureau_balance.csv
+input/bureau.csv
+input/application_train.csv
+input/application_test.csv
